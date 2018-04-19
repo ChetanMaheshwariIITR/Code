@@ -17,7 +17,7 @@ The objective of the project was to utilise the Commitment of traders report to 
 
 -LSTM with lag values of price and trader positions was used for multivariate time series forecaasting
 
-#Preprocessing :
+# Preprocessing :
 ->From the raw data of open interest: It needs to be combined by the respective open interet categories and for the respective exchanges
 ->Price data : Price data for different years needs to be stacked in the order of date
 - All the open interest position values and price needs to be converted in the float data type for processing
